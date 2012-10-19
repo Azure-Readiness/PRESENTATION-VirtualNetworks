@@ -9,9 +9,9 @@
   <Description>
 Presentation focused on Windows Azure Networking capabilities including Virtual Networks.
 </Description>
-  <Document RemoveSpeakerNotes="true">.\VirtualNetworks.pptx</Document>
+  <Document RemoveSpeakerNotes="false">.\VirtualNetworks.pptx</Document>
   <Title>Windows Azure Virtual Networks</Title>
-  <Version>1.0.2</Version>
+  <Version>1.0.3</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
     <Property Name="Filter" Value="Foundation,itprocamps" />
